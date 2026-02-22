@@ -22,9 +22,10 @@ An interactive 3-page Power BI dashboard analyzing $118M in sales data to provid
 - Power Query for data transformation
 
 ## 📁 Files in This Repository
-├── `Superstore_Sales_Dashboard.pbix` - Main Power BI dashboard file
-├── `README.md` - Project documentation
-└── `screenshots/` 
+- Superstore_Sales_Dashboard.pbix
+- README.md 
+- screenshots
+   
 - ## 🚀 How to View This Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 2. Download the `.pbix` file from this repository
