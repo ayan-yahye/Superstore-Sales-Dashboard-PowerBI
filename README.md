@@ -45,7 +45,7 @@ An interactive 3-page Power BI dashboard analyzing $118M in sales data to provid
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
-- **Email:** nayayn67@gmail.com
+- **Email:** ayanyahye0@gmail.com
 
 
 *⭐ If you found this project helpful, please star the repository!*
